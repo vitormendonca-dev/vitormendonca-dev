@@ -41,5 +41,5 @@ Eu sou o Vitor estou Cursando Tec. Desenvolviemnto de Sistemas e penso em futura
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdallah-el-sawy&layout=compact)
 <br>
 <a href="https://komarev.com/ghpvc/?username=abdallah-el-sawy&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=abdallah-el-sawy&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=vitormendonca-dev&style=for-the-badge">
 </a>
