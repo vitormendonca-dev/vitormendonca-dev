@@ -8,12 +8,12 @@ I'm a software developer with a strong passion for creating visually appealing a
 </p>
 
 - 👨‍💻 I’m currently working on web development technologies like PHP & Laravel.
-- 📚 I’m currently learning about Frontend and Backend technologies.
-- 🎯 Future Goals: Learn more web technologies - Create awesome websites.
+- 📚 Eu estou atualmente cursando Tec. Desenvolviemnto de Sistemas
+- 🎯 Objetivos Futuros: Aprender Mais sobre Tecnologia e me tornar um bom Desenvolvedor
   
 - 📫 Social links
 <p>
-	<a href="mailto:abdallahelsawy706@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="mailto:vitoreduardomendonca6@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/abdallah-el-sawy"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 	<a href="https://wa.me/0201027173150"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
 	<a href="https://www.linkedin.com/in/abdallah-elsawy-212479320/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
