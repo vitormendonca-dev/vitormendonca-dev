@@ -20,12 +20,13 @@ Eu sou o Vitor estou Cursando Tec. Desenvolvimento de Sistemas e penso em futura
 	<a href="https://www.instagram.com/vitoreduardomendonca_/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
-### 🛠 &nbsp;Technologies that I work with
+### 🛠 &nbsp;Tecnologias que uso
 ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![SQLite](https://img.shields.io/badge/Sqlite3-003B57?style=for-the-badge&logo=sqlite&logoColor=003B57)
+![Luau](https://img.shields.io/badge/Luau-00A2FF?style=for-the-badge&logo=LuauColor=003B5)
 
-#### 🔧 Tools
+#### 🔧 Ferramentas
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
