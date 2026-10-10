@@ -1,15 +1,15 @@
 <img align="right" src="https://raw.githubusercontent.com/mohamedelkashef15/mohamedelkashef15/main/github-profile.png" width="30%">
 <h1>
-  Eai, Eu sou o Vitor Mendonça   
+  Olá, Eu sou o Vitor Mendonça   
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 <p>
 Eu sou o Vitor estou Cursando Tec. Desenvolvimento de Sistemas e penso em futuramente seguir carreira como Engenheiro de Software.
 </p>
 
-- 👨‍💻 Eu estou atualemnte aprendendo Python
-- 📚 Cursando Tec. Desenvolviemnto de Sistemas
-- 🎯 Objetivos Futuros: Aprender Mais sobre Tecnologia e me tornar um bom Desenvolvedor
+- 👨‍💻 Atualmente aprendendo e praticando Python
+- 📚 Cursando Técnico em Desenvolviemnto de Sistemas
+- 🎯 Objetivos Futuros: Aprimorar meus conhecimentos sobre tecnologia e evoluir como desenvolvedor.
   
 - 📫 Redes Sociais
 <p>
