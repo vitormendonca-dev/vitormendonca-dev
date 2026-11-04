@@ -13,11 +13,11 @@ I am Vitor, currently studying Systems Development Technician and planning to pu
   
 - 📫 Social Media
 <p>
-	<a href="https://github.com/vitormendonca-dev"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://wa.me/5545998060141"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
-	<a href="https://www.linkedin.com/in/vitor-eduardo-mendonça-b132413a0/?isSelfProfile=true"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/abdallah.elsawy.524"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
-	<a href="https://www.instagram.com/vitoreduardomendonca_/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
+	<a href="https://github.com/vitormendonca-dev"><img src="https://img.shields.io/badge/github-%23121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="https://wa.me/5545998060141"><img src="https://img.shields.io/badge/whatsapp-%25D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
+	<a href="https://www.linkedin.com/in/vitor-eduardo-mendonça-b132413a0/?isSelfProfile=true"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://www.facebook.com/abdallah.elsawy.524"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+	<a href="https://www.instagram.com/vitoreduardomendonca_/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
 ### 🛠 &nbsp;Technologies I Use
@@ -30,3 +30,7 @@ I am Vitor, currently studying Systems Development Technician and planning to pu
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+#### Franeworks
+![Django](https://img.shields.io/badge/Django-%092E20.svg?style=for-the-badge&logo=Django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-%3BABC3.svg?style=for-the-badge&logo=Flask&logoColor=white)
