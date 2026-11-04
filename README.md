@@ -1,17 +1,17 @@
 <img align="right" src="https://raw.githubusercontent.com/mohamedelkashef15/mohamedelkashef15/main/github-profile.png" width="30%">
 <h1>
-  Olá, Eu sou o Vitor Mendonça   
+  Hello, I'm Vitor Mendonça   
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 <p>
-Eu sou o Vitor estou Cursando Tec. Desenvolvimento de Sistemas e penso em futuramente seguir carreira como Engenheiro de Software.
+I am Vitor, currently studying Systems Development Technician and planning to pursue a career as a Software Engineer in the future.
 </p>
 
-- 👨‍💻 Atualmente aprendendo e praticando Python
-- 📚 Cursando Técnico em Desenvolviemnto de Sistemas
-- 🎯 Objetivos Futuros: Aprimorar meus conhecimentos sobre tecnologia e evoluir como desenvolvedor.
+- 👨‍💻 Currently learning and practicing Python
+- 📚 Studying Systems Development Technician
+- 🎯 Future Goals: Enhance my knowledge of technology and evolve as a developer.
   
-- 📫 Redes Sociais
+- 📫 Social Media
 <p>
 	<a href="https://github.com/vitormendonca-dev"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 	<a href="https://wa.me/5545998060141"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
@@ -20,13 +20,13 @@ Eu sou o Vitor estou Cursando Tec. Desenvolvimento de Sistemas e penso em futura
 	<a href="https://www.instagram.com/vitoreduardomendonca_/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
-### 🛠 &nbsp;Tecnologias que uso
+### 🛠 &nbsp;Technologies I Use
 ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![SQLite](https://img.shields.io/badge/Sqlite3-003B57?style=for-the-badge&logo=sqlite&logoColor=003B57)
 ![Luau](https://img.shields.io/badge/Luau-00A2FF?style=for-the-badge&logo=LuauColor=003B5)
 
-#### 🔧 Ferramentas
+#### 🔧 Tools
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
